@@ -30,3 +30,26 @@
 *.exe
 *.out
 *.app
+
+# Unity 忽略清單
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# 特定 IDE 的設定檔案
+*.csproj
+*.sln
+*.userprefs
+.vscode/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 不需要的壓縮文件
+*.zip
+*.rar
