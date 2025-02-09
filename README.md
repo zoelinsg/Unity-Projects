@@ -40,6 +40,6 @@
 ### 2. 克隆專案
 使用 Git 下載專案：
 ```sh
-git clone https://github.com/你的GitHub帳號/2D-Unity-Game](https://github.com/zoelinsg/Unity-Projects.git
+git clone https://github.com/zoelinsg/Unity-Projects.git
 ```
 
